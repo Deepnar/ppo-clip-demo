@@ -1,4 +1,4 @@
-# PPO-Clip Pendulum Demo
+# PPO-Clip Pendulum Demo : 
 
 Small classroom demo of **PPO-Clip (Proximal Policy Optimization)** on Gymnasium's `Pendulum-v1`.
 
